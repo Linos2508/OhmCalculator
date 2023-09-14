@@ -9,7 +9,7 @@ Must create a .env file with: DB, USER and PASSWORD
 * Type command `npm install`
 * Type command `node server.js`
 
-**Note: The Database is inside this repository.
+**Note: Database is inside this repository.
 ### Set up Frontend
 * Place at main folder
 * Type command `npm install`
